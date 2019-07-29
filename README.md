@@ -1,1 +1,2 @@
 # Random-clip-Geoimage
+训练数据需要是有坐标的tiff图像，且data和label需要有同样的空间位置和分辨率，随机裁剪原理是基于坐标的。大量函数是需要arcpy的包
